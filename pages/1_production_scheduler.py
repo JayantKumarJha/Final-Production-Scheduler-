@@ -73,7 +73,7 @@ if uploaded_file:
                 })
                 batch_counter += 1
 
-        MAX_TIME = 1140  # 19 hours
+        MAX_TIME = 990  # 19 hours
         CHANGEOVER = 180
         fit_batches = []
         too_big_batches = []
