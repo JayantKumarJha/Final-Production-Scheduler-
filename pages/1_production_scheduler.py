@@ -73,7 +73,7 @@ if uploaded_file:
                 })
                 batch_counter += 1
 
-        MAX_TIME = 1140  # 13.5 hrs production and 3 hrs initial setup
+        MAX_TIME = 1260  # 13.5 hrs production and 3 hrs initial setup
         CHANGEOVER = 180
         fit_batches = []
         too_big_batches = []
